@@ -1,0 +1,30 @@
+{
+  "pages": {
+    "/(app)/page": [
+      "static/chunks/31abf_next_dist_383d0e52._.js",
+      "static/chunks/cf91e_livekit-starter-code_agent-starter-react_app_favicon_ico_mjs_c6567142._.js",
+      "static/chunks/[root-of-the-server]__e04ee917._.css",
+      "static/chunks/31abf_81720b6c._.js",
+      "static/chunks/be5c9_Projects_Interview Prep_livekit-starter-code_agent-starter-react_0d9373af._.js",
+      "static/chunks/7f8cc_Interview Prep_livekit-starter-code_agent-starter-react_app_layout_tsx_bc3da416._.js",
+      "static/chunks/31abf_next_dist_client_components_builtin_global-error_3b616df0.js",
+      "static/chunks/be5c9_Projects_Interview Prep_livekit-starter-code_agent-starter-react_e8ec1d41._.js",
+      "static/chunks/31abf_livekit-client_dist_livekit-client_esm_mjs_33240a0a._.js",
+      "static/chunks/31abf_@livekit_components-react_dist_8a27f01e._.js",
+      "static/chunks/31abf_framer-motion_dist_es_3081cbaa._.js",
+      "static/chunks/31abf_motion-dom_dist_es_8b591b61._.js",
+      "static/chunks/31abf_@phosphor-icons_react_dist_f8dbeadc._.js",
+      "static/chunks/31abf_e63eeba1._.js",
+      "static/chunks/cf91e_livekit-starter-code_agent-starter-react_app_(app)_page_tsx_3b616df0._.js",
+      "static/chunks/[turbopack]_browser_dev_hmr-client_hmr-client_ts_8bbdd5e6._.js",
+      "static/chunks/31abf_next_dist_compiled_react-dom_a60dcd58._.js",
+      "static/chunks/31abf_next_dist_compiled_next-devtools_index_ca702d02.js",
+      "static/chunks/31abf_next_dist_compiled_313f8f6d._.js",
+      "static/chunks/31abf_next_dist_client_6b7ee715._.js",
+      "static/chunks/31abf_next_dist_48100261._.js",
+      "static/chunks/31abf_@swc_helpers_cjs_69e91c3c._.js",
+      "static/chunks/be5c9_Projects_Interview Prep_livekit-starter-code_agent-starter-react_a0ff3932._.js",
+      "static/chunks/41661_Projects_Interview Prep_livekit-starter-code_agent-starter-react_89368619._.js"
+    ]
+  }
+}
