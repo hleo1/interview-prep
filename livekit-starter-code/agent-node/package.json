@@ -1,0 +1,34 @@
+{
+  "name": "trivia-voice-agent",
+  "version": "1.0.0",
+  "description": "LiveKit voice agent for trivia game using Node.js",
+  "main": "dist/agent.js",
+  "type": "module",
+  "scripts": {
+    "dev": "tsx agent.ts dev",
+    "start": "node dist/agent.js start",
+    "build": "tsc",
+    "download-files": "tsc && node dist/agent.js download-files"
+  },
+  "keywords": [
+    "livekit",
+    "voice-agent",
+    "trivia",
+    "openai"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "@livekit/agents": "^1.0.18",
+    "@livekit/agents-plugin-openai": "^1.0.18",
+    "@livekit/noise-cancellation-node": "latest",
+    "dotenv": "^16.4.5",
+    "livekit-server-sdk": "^2.8.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20.11.0",
+    "tsx": "^4.7.0",
+    "typescript": "^5.3.3",
+    "zod": "^3.23.8"
+  }
+}
