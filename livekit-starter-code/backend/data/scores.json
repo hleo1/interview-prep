@@ -1,0 +1,74 @@
+[
+  {
+    "id": "voice_assistant_user_1530-1763411124167",
+    "participant_id": "voice_assistant_user_1530",
+    "score": 1,
+    "questions_asked": 1,
+    "percentage": 100,
+    "timestamp": "2025-11-17T20:25:24.167Z"
+  },
+  {
+    "id": "voice_assistant_user_1530-1763411145780",
+    "participant_id": "voice_assistant_user_1530",
+    "score": 1,
+    "questions_asked": 2,
+    "percentage": 50,
+    "timestamp": "2025-11-17T20:25:45.780Z"
+  },
+  {
+    "id": "voice_assistant_user_1530-1763411157175",
+    "participant_id": "voice_assistant_user_1530",
+    "score": 1,
+    "questions_asked": 2,
+    "percentage": 50,
+    "timestamp": "2025-11-17T20:25:57.175Z"
+  },
+  {
+    "id": "voice_assistant_user_2274-1763411298189",
+    "participant_id": "voice_assistant_user_2274",
+    "score": 1,
+    "questions_asked": 1,
+    "percentage": 100,
+    "timestamp": "2025-11-17T20:28:18.189Z"
+  },
+  {
+    "id": "voice_assistant_user_2274-1763411310781",
+    "participant_id": "voice_assistant_user_2274",
+    "score": 1,
+    "questions_asked": 1,
+    "percentage": 100,
+    "timestamp": "2025-11-17T20:28:30.781Z"
+  },
+  {
+    "id": "voice_assistant_user_4583-1763411981658",
+    "participant_id": "voice_assistant_user_4583",
+    "score": 0,
+    "questions_asked": 0,
+    "percentage": 0,
+    "timestamp": "2025-11-17T20:39:41.658Z"
+  },
+  {
+    "id": "voice_assistant_user_4583-1763412011388",
+    "participant_id": "voice_assistant_user_4583",
+    "score": 1,
+    "questions_asked": 1,
+    "percentage": 100,
+    "timestamp": "2025-11-17T20:40:11.388Z"
+  },
+  {
+    "id": "voice_assistant_user_4583-1763412031020",
+    "participant_id": "voice_assistant_user_4583",
+    "score": 2,
+    "questions_asked": 2,
+    "percentage": 100,
+    "timestamp": "2025-11-17T20:40:31.020Z"
+  },
+  {
+    "id": "voice_assistant_user_4583-1763412040080",
+    "participant_id": "voice_assistant_user_4583",
+    "score": 2,
+    "questions_asked": 2,
+    "percentage": 100,
+    "timestamp": "2025-11-17T20:40:40.080Z"
+  }
+]

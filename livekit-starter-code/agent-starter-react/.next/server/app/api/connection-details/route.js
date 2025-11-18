@@ -1,0 +1,11 @@
+var R=require("../../../chunks/[turbopack]_runtime.js")("server/app/api/connection-details/route.js")
+R.c("server/chunks/[root-of-the-server]__9d23d029._.js")
+R.c("server/chunks/31abf_next_30eb3427._.js")
+R.c("server/chunks/31abf_@bufbuild_protobuf_dist_esm_958d3b30._.js")
+R.c("server/chunks/31abf_@livekit_protocol_dist_index_mjs_7ce4db99._.js")
+R.c("server/chunks/146e8_jose_dist_node_esm_80511a14._.js")
+R.c("server/chunks/31abf_livekit-server-sdk_dist_c558158c._.js")
+R.c("server/chunks/[root-of-the-server]__bf1e6f61._.js")
+R.m("[project]/Documents/Coding_Projects/Interview Prep/livekit-starter-code/agent-starter-react/.next-internal/server/app/api/connection-details/route/actions.js [app-rsc] (server actions loader, ecmascript)")
+R.m("[project]/Documents/Coding_Projects/Interview Prep/livekit-starter-code/agent-starter-react/node_modules/next/dist/esm/build/templates/app-route.js { INNER_APP_ROUTE => \"[project]/Documents/Coding_Projects/Interview Prep/livekit-starter-code/agent-starter-react/app/api/connection-details/route.ts [app-route] (ecmascript)\" } [app-route] (ecmascript)")
+module.exports=R.m("[project]/Documents/Coding_Projects/Interview Prep/livekit-starter-code/agent-starter-react/node_modules/next/dist/esm/build/templates/app-route.js { INNER_APP_ROUTE => \"[project]/Documents/Coding_Projects/Interview Prep/livekit-starter-code/agent-starter-react/app/api/connection-details/route.ts [app-route] (ecmascript)\" } [app-route] (ecmascript)").exports
