@@ -1,0 +1,10 @@
+AI Vibe coding interview - 45 mins
+
+1. Create a realtime agent using open ai speech to speech and live kit. In the frontend use react. 
+    1. Open ai key: [REDACTED]
+    2. livekit wss url: [REDACTED]
+    3. livekit api key: [REDACTED]
+    4. livekit api secret: [REDACTED]
+2. Create a voice based trivia game
+3. Maintain score in the backend, after each answer
+4. Show score in the fronted, after each answer
